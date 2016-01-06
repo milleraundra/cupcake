@@ -1,0 +1,30 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 1.5em;
+  color: blue;
+}
+
+li {
+  font-size: 1.2em;
+  list-style: none;
+  font-weight: bold;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+}
+
+li img {
+  max-width: 250px;
+}
+
+/*hr {
+  width: 30%;
+}*/
