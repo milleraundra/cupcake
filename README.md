@@ -10,10 +10,9 @@ _Menu of our cupcake shop listing our top cupcakes and where you can get them_
 
 ## Setup/Installation Requirements
 
-* _Plug and Play, you can do the math_
-
-
-<!-- _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_ -->
+1. Clone this repository.
+2. Navigate to the top level of the project directory.
+3. Open the `index.html` file in your browser.
 
 ## Known Bugs
 
@@ -21,14 +20,11 @@ _All our bugs are cleaned out of our cupcakes every morning_
 
 ## Support and contact details
 
-_find us at work_
+Email: _miller.aundra@gmail.com_
 
 ## Technologies Used
 
 _HTML & CSS_
 
 ### License
-
-*open to all*
-
-<!-- Copyright (c) 2015 **_{List of contributors or company name}_** -->
+Copyright (c) 2015 **_Aundra Miller and Ronando Long_**
